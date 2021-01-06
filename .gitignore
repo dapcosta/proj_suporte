@@ -1,3 +1,5 @@
 .idea
 *.sqlite3
 venv
+*.pyc
+proj_suporte_django/__pycache__/
