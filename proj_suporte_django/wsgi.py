@@ -1,6 +1,6 @@
 """
 WSGI config for proj_suporte_django project.
-
+1
 It exposes the WSGI callable as a module-level variable named ``application``.
 
 For more information on this file, see
